@@ -66,7 +66,7 @@ All visuals are generated using **Matplotlib** and rendered inside the GUI via `
 
 ---
 ### 🖼️ Screenshot of Project
-![Screenshot](images/collage1.png)
+![Screenshot](collage1.png)
 
 ## 👨‍💻 About the Developer
 
